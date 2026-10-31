@@ -1,0 +1,15 @@
+{
+  "name": "Liquid_Commands",
+  "short_name": "Liquid",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "icon.png", "sizes": "any", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "any", "type": "image/png", "purpose": "maskable" }
+  ]
+}
